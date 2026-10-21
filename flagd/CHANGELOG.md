@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.18.1](https://github.com/open-feature/flagd/compare/flagd/v0.18.0...flagd/v0.18.1) (2026-10-21)
+
+
+### ✨ New Features
+
+* add flag set ID to evaluation metrics ([#2078](https://github.com/open-feature/flagd/issues/2078)) ([10f2ca0](https://github.com/open-feature/flagd/commit/10f2ca00c67bf81499f67235f9cb3fc1c51d4ee4))
+
+
+### 🧹 Chore
+
+* Update CHANGELOG with more details ([3f01794](https://github.com/open-feature/flagd/commit/3f017946657f1ee86be55db9f1d55e7d2d289a5d))
+
 ## [0.18.0](https://github.com/open-feature/flagd/compare/flagd/v0.17.1...flagd/v0.18.0) (2026-10-15)
 
 
